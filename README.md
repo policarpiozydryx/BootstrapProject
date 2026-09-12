@@ -1,2 +1,1 @@
-# BootstrapProject
-This is a school activity
+# IT 314 WEB SYS
